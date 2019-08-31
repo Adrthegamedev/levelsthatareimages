@@ -1,0 +1,7 @@
+[general]
+name=levels we only have pictures of
+start=6level
+
+[levels]
+levelid=6
+
